@@ -1,0 +1,17 @@
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrack Project1.vcxproj.AssemblyReference.cache
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrackProject1.LoginForm.resources
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrack Project1.vcxproj.GenerateResource.cache
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrackProject1.MainForm.resources
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrackProject1.RegisterForm.resources
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrackProject1.AdminLoginForm.resources
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrackProject1.AdminMainForm.resources
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrackProject1.AdminRegistrationForm.resources
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrackProject1.PatientRecord.resources
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrackProject1.UserRegistration(Admin).resources
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrackProject1.UpdatePatientRecord.resources
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrackProject1.AdminAppointment.resources
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrackProject1.UserAppointment.resources
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrackProject1.RescheduleAppointment.resources
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrackProject1.Request.resources
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrackProject1.UserRequest.resources
+C:\Users\joshua\source\repos\DenTrack Project1\DenTrack Project1\x64\Debug\DenTrackProject1.DeleteAdmin.resources
